@@ -1,3 +1,10 @@
-# My firstGit repository 
-"This repository was created during Lab 01." 
-"Lab 01 complated succesfully ." 
+# My Developer Journey 
+## About me
+My name is Civan. I am learning developer tools in this course 
+## Tools to Learn
+- Git
+- GitHub 
+- VS Code 
+## Usefull git command 
+``` bash 
+git status 
