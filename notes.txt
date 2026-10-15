@@ -1,0 +1,3 @@
+"I expect to lerarn Git basics." 
+"Iexpect to learn how repositories work."  
+"I expect to leran how t track changes." 
